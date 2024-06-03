@@ -11,7 +11,7 @@ a knowekdge base give suggestions to what you wear and what clothings you need ,
 pip install experta
 
 ```
-** make sure you have a python version support experta !!!
+** make sure you have a python version supports experta !!!
 
 ## Collaborators
 
