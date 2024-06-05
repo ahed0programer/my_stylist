@@ -21,7 +21,7 @@ We would like to thank the following people who have contributed to this project
   <tr>
     <td align="center">
       <a href="https://github.com/ahed0programer">
-        <img src="https://avatars.githubusercoztent.com/ahed0programer?v=4" width="100px;" style="border-radius: 50%;  max-width:100%;" alt="Ahed Sulieman"/>
+        <img src="https://avatars.githubusercoztent.com/ahed0programer" width="100px;" style="border-radius: 50%;  max-width:100%;" alt="Ahed Sulieman"/>
         <br />
         <sub><b>Ahed Sulieman</b></sub>
       </a>
