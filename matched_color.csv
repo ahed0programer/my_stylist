@@ -1,0 +1,9 @@
+color1,color2,match
+red,gray,TRUE
+red,green,TRUE
+white,black,TRUE
+white,purple,TRUE
+black,purple,FALSE
+red,blue,FALSE
+yello,orange,FALSE
+black,gray,TRUE
