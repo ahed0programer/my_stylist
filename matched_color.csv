@@ -1,9 +1,74 @@
 color1,color2,match
-red,gray,TRUE
-red,green,TRUE
-white,black,TRUE
-white,purple,TRUE
-black,purple,FALSE
-red,blue,FALSE
-yello,orange,FALSE
-black,gray,TRUE
+aqua, gray: 65
+aqua, navy: 85
+black, gray: 80
+black, orange: 35
+black, purple: 30
+black, white: 95
+blue, brown: 30
+blue, green: 65
+blue, purple: 65
+blue, red: 35
+blue, white: 75
+blue, yellow: 25
+brown, tan: 90
+brown, yellow: 25
+burgundy, black: 85
+charcoal, red: 55
+cherry, black: 75
+cobalt, black: 75
+coral, navy: 65
+crimson, gray: 65
+denim, white: 90
+emerald, white: 85
+fuchsia, black: 65
+gold, black: 90
+gray, orange: 20
+green, gray: 55
+green, pink: 20
+green, purple: 15
+green, red: 20
+green, yellow: 80
+indigo, white: 70
+ivory, navy: 85
+khaki, navy: 60
+lavender, white: 75
+lime, white: 50
+maroon, gray: 60
+magenta, black: 60
+mint, navy: 70
+mocha, cream: 80
+mustard, brown: 60
+navy, white: 90
+olive, beige: 80
+orange, blue: 15
+orange, purple: 15
+orange, red: 70
+peach, gray: 70
+peach, cream: 80
+periwinkle, white: 80
+pink, green: 20
+pink, orange: 30
+pink, white: 75
+plum, black: 75
+purple, brown: 10
+purple, white: 60
+red, blue: 70
+red, gray: 60
+red, orange: 20
+red, purple: 30
+red, yellow: 25
+rose, white: 75
+rust, olive: 50
+sage, cream: 65
+sand, olive: 70
+silver, white: 85
+sky blue, white: 90
+teal, gray: 70
+turquoise, white: 85
+violet, gray: 60
+white, black: 95
+white, purple: 50
+yellow, blue: 50
+yellow, orange: 85
+yellow, purple: 20
