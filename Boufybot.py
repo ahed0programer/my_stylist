@@ -17,20 +17,20 @@ phrases = {
         # * informations need to bee asked 
         # ** ["prefered_color", "shirt_size" ,"pants_size" ,"shoe_size" , "age" , "hieght"]
         "prefered_color":[
-            "what colors do you like",
-            "what colors do you prefer",
-            "what colors you think make you feel comfortable",
-            "you have a taste ,tell me your favourite color",
+            "what colors 👗 do you like",
+            "what colors 👗 do you prefer",
+            "what colors👗 you think make you feel comfortable",
+            "you have a taste 🌟,tell me your favourite color",
         ],
         "shirt_size":[
-            "what's size of shirts you normally wear",
-            "what's size of shirts fits you well",
+            "what's size of shirts 👗 you normally wear",
+            "what's size of shirts 👗 fits you well",
             "what's the size of your shirts , so I can prvide you better assistance",
         ],
         "pants_size":[
-            "what's size of pants you normally wear",
-            "what's size of pants fits you well",
-            "what's the size of your pants , so I can prvide you better assistance",
+            "what's size of pants you normally wear 😊",
+            "what's size of pants fits you well 😊",
+            "what's the size of your pants , so I can prvide you better assistance 😊",
         ],
         "shoe_size":[
             "what's size of shoes you normally wear",
@@ -38,20 +38,20 @@ phrases = {
             "what's the size of your shoes , so I can prvide you better assistance",
         ],
         "age":[
-            "what's your age",
-            "pardon me , could you tell me your age",
-            "it will be great if you told me your age",
+            "what's your age 😊",
+            "pardon me , could you tell me your age 😊",
+            "it will be great if you told me your age 😊",
         ],
         "hieght":[
-            "how much hieght are you ... in cm",
-            "what is your hieght ... in cm",
+            "how much hieght are you ... in cm 🌟",
+            "what is your hieght ... in cm 🌟",
         ],
     },
     "ask_occasion":[
-        "So , Do we have any occasions today? party , wedding , un ",
-        "what is our agnenda today",
+        "So , Do we have any occasions today? party , wedding , ..  🎉🎉",
+        "what is our agnenda today 🌟",
         "well , what're we going to do to day , please tell me we're having a party 🥳 I am so excited",
-        "have amazing stuff today ?! , what is waiting for us?"
+        "have amazing stuff today ?! , 🌼 what is waiting for us?"
     ],
     "ask_taste":[
         "what type of clothing you like",
@@ -61,13 +61,15 @@ phrases = {
 
 occasions = {
     "wedding":[
-        "close",
-        "friend",
+        "family member's wedding",
+        "relative's wedding",
+        "friend's wedding",
+        "acquaintance's wedding"
     ],
-    "party":[
+    "party": [
         "graduation party",
         "birthday party",
-        "party",
+        "just party",
     ],
     "date":[
         "first date crush",
@@ -79,6 +81,11 @@ occasions = {
         "family meeting",
         "job interview",
     ],
-
-    
+    "nothing":[
+        "going to work",
+        "stay indoor",
+        "outdoor entertaiment",
+        "going to gym",
+        "practicing sport"
+    ],
 }

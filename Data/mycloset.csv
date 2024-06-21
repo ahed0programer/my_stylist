@@ -1,0 +1,16 @@
+name,color,category,size
+shirt,gray,men/shirts,L
+shirt,green,men/shirts,M
+t-shirt,black,men/shirts,S
+shirt,purple,men/shirts,XL
+jeans,purple,men/pants,S
+jeans,blue,men/pants,M
+linen,orange,men/pants,M
+linen,gray,men/pants,XL
+cap,gray,men/hats,XL
+cap,gray,men/hats,XL
+cap,gray,men/hats,XL
+helmet,gray,men/hats,L
+boot,gray,men/shoes,XL
+trainers,gray,men/shoes,XL
+trainers,gray,men/shoes,XL

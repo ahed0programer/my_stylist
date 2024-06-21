@@ -15,7 +15,14 @@ class Cloth(Fact):
 
 # * A class express the clothes the user has 
 class My_closet(Fact):
-    cloth_id = Field(str , True)
+    name = Field(str , True)
+    color = Field(str , True)
+    category = Field(str , True)
+    size = Field(any , True)
+    
+
+class IncludeMy_closet(Fact):
+    pass
 
 class Info(Fact):
    pass
