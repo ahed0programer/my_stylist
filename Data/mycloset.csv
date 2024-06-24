@@ -1,16 +1,17 @@
-name,color,category,size
-shirt,gray,men/shirts,L
-shirt,green,men/shirts,M
-t-shirt,black,men/shirts,S
-shirt,purple,men/shirts,XL
-jeans,purple,men/pants,S
-jeans,blue,men/pants,M
-linen,orange,men/pants,M
-linen,gray,men/pants,XL
-cap,gray,men/hats,XL
-cap,gray,men/hats,XL
-cap,gray,men/hats,XL
-helmet,gray,men/hats,L
-boot,gray,men/shoes,XL
-trainers,gray,men/shoes,XL
-trainers,gray,men/shoes,XL
+name,color,category,size,formality
+shirt,white,men/shirts,XL,90
+shirt,white,men/shirts,L,90
+shirt,black,men/shirts,L,100
+jeans,blue,men/pants,40,100
+jeans,black,men/pants,42,100
+jeans,white,men/pants,42,100
+jeans,gray,men/pants,42,100
+linen,orange,men/pants,M,100
+cap,gray,men/hats,XL,100
+boot,gray,men/shoes,XL,100
+trainers,black,men/shoes,40,100
+trainers,gray,men/shoes,40,100
+trainers,white,men/shoes,40,100
+trainers,black,men/shoes,42,0
+rolex watch,gray,men/watches,XL,0
+rolex watch,white,men/watches,XL,0

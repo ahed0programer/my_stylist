@@ -15,7 +15,7 @@ phrases = {
     ],
     "collect_data":{
         # * informations need to bee asked 
-        # ** ["prefered_color", "shirt_size" ,"pants_size" ,"shoe_size" , "age" , "hieght"]
+        # ** ["prefered_color", "shirt_size" ,"pants_size" ,"shoe_size" , "category"]
         "prefered_color":[
             "what colors 👗 do you like",
             "what colors 👗 do you prefer",
@@ -37,15 +37,11 @@ phrases = {
             "what's size of shoes fits you well",
             "what's the size of your shoes , so I can prvide you better assistance",
         ],
-        "age":[
-            "what's your age 😊",
-            "pardon me , could you tell me your age 😊",
-            "it will be great if you told me your age 😊",
-        ],
-        "hieght":[
-            "how much hieght are you ... in cm 🌟",
-            "what is your hieght ... in cm 🌟",
-        ],
+        "category":[
+            "what type of category do you wear 😊 [ men , women , boys ,girls .....] ",
+            "what's you category 😊 [ men , women , boys ,girls .....]",
+            "it will be great if you told me your category😊 [ men , women , boys ,girls .....]",
+        ]
     },
     "ask_occasion":[
         "So , Do we have any occasions today? party , wedding , ..  🎉🎉",
@@ -81,11 +77,10 @@ occasions = {
         "family meeting",
         "job interview",
     ],
+    "sad":[
+        "funeral",
+    ],
     "nothing":[
-        "going to work",
-        "stay indoor",
-        "outdoor entertaiment",
-        "going to gym",
-        "practicing sport"
+        "friends meeting",
     ],
 }

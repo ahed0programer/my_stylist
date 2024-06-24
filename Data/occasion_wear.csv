@@ -1,0 +1,73 @@
+ocassion,should_wear,match
+family member's wedding,shirt,100
+family member's wedding,shoes,100
+family member's wedding,pants,100
+family member's wedding,watch,90
+family member's wedding,hat,0
+family member's wedding,glasses,0
+relative's wedding,shirt,100
+relative's wedding,shoes,100
+relative's wedding,pants,100
+relative's wedding,watch,90
+relative's wedding,hat,0
+relative's wedding,glasses,0
+acquaintance's wedding,shirt,100
+acquaintance's wedding,shoes,100
+acquaintance's wedding,pants,100
+acquaintance's wedding,watch,50
+acquaintance's wedding,hat,0
+acquaintance's wedding,glasses,0
+graduation party,shirt,100
+graduation party,shoes,100
+graduation party,pants,100
+graduation party,watch,90
+graduation party,hat,0
+graduation party,glasses,0
+birthday party,shirt,100
+birthday party,shoes,100
+birthday party,pants,100
+birthday party,watch,50
+birthday party,hat,30
+birthday party,glasses,0
+just party,shirt,100
+just party,shoes,100
+just party,pants,100
+just party,watch,50
+just party,hat,20
+just party,glasses,0
+friends meeting,shirt,100
+friends meeting,shoes,100
+friends meeting,pants,100
+friends meeting,watch,90
+friends meeting,hat,90
+friends meeting,glasses,90
+family meeting,shirt,100
+family meeting,shoes,100
+family meeting,pants,100
+family meeting,watch,90
+family meeting,hat,90
+family meeting,glasses,90
+job interview,shirt,100
+job interview,shoes,100
+job interview,pants,100
+job interview,watch,90
+job interview,hat,90
+job interview,glasses,90
+first date crush,shirt,100
+first date crush,shoes,100
+first date crush,pants,100
+first date crush,watch,90
+first date crush,hat,50
+first date crush,glasses,0
+date with a girlfriend,shirt,100
+date with a girlfriend,shoes,100
+date with a girlfriend,pants,100
+date with a girlfriend,watch,90
+date with a girlfriend,hat,50
+date with a girlfriend,glasses,0
+date with fiancee,shirt,100
+date with fiancee,shoes,100
+date with fiancee,pants,100
+date with fiancee,watch,50
+date with fiancee,hat,30
+date with fiancee,glasses,0

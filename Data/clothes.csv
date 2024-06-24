@@ -1,16 +1,27 @@
-name,color,category,size
-shirt,gray,men/shirts,L
-shirt,green,men/shirts,M
-t-shirt,black,men/shirts,S
-shirt,purple,men/shirts,XL
-jeans,purple,men/pants,S
-jeans,blue,men/pants,M
-linen,orange,men/pants,M
-linen,gray,men/pants,XL
-cap,gray,men/hats,XL
-cap,gray,men/hats,XL
-cap,gray,men/hats,XL
-helmet,gray,men/hats,L
-boot,gray,men/shoes,XL
-trainers,gray,men/shoes,XL
-trainers,gray,men/shoes,XL
+name,color,category,size,formality
+shirt,gray,men/shirts,L,100
+shirt,black,men/shirts,L,100
+shirt,green,men/shirts,M,100
+t-shirt,black,men/shirts,S,100
+shirt,purple,men/shirts,XL,100
+jeans,purple,men/pants,40,100
+jeans,blue,men/pants,40,100
+jeans,black,men/pants,42,100
+linen,orange,men/pants,40,100
+linen,gray,men/pants,42,100
+cap,gray,men/hats,XL,100
+cap,white,men/hats,XL,100
+cap,green,men/hats,XL,100
+helmet,gray,men/hats,L,100
+boot,gray,men/shoes,38,100
+trainers,black,men/shoes,40,100
+trainers,gray,men/shoes,40,100
+helmet,gray,men/hats,L,0
+boot,gray,men/shoes,XL,0
+trainers,black,men/shoes,XL,0
+trainers,gray,men/shoes,XL,0
+rolex watch,black,men/watches,XL,0
+rolex watch,gray,men/watches,XL,0
+rolex watch,white,men/watches,XL,0
+
+
