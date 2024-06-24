@@ -51,7 +51,6 @@ class MyStylist_Engine(KnowledgeEngine):
         for i in occasions_wear.index:
             yield Occasion_Wear(occasion = occasions_wear.loc[i , "ocassion"] , should_wear=occasions_wear.loc[i , "should_wear"] , matched = float(occasions_wear.loc[i , "match"])/100)
 
-
     # ------------------------------------------------------------
     # ! - Gathering Data -
 
@@ -86,7 +85,6 @@ class MyStylist_Engine(KnowledgeEngine):
                 break
             elif(In=="no"):break
             else:print("please answer with [yes/no] : ",end='')
-
 
     @Rule(Include_GeneralClothes(True))
     def includeclothesFromStore(self):
@@ -207,9 +205,7 @@ class MyStylist_Engine(KnowledgeEngine):
     )
     def scondary_style_hat(self,outfit ,hat , hat_certainty ):
         self.modify(outfit, hat= hat ,hat_certainty= hat_certainty)
-        # print(hat["color"])
-        # print(outfit["shirt"]["color"])
-       
+    
     @Rule(AS.outfit<<Outfit(color=MATCH.color,shirt=MATCH.shirt,pants=MATCH.pants, shoes=MATCH.shoes,order=W(),watch=W(),watch_certainty=W() , hat=W() ,hat_certainty=W()) ,salience=5)
     def collect_outfit(self , outfit):
         self.suggestions.append(outfit)
@@ -222,7 +218,6 @@ class MyStylist_Engine(KnowledgeEngine):
     def suggest_style(self):
         recommand_message = "I suggest you to wear"
         for suggestion in self.suggestions:
-            print(suggestion['shirt']['have_it'])
             if(suggestion['shirt']['have_it']):
                 shirt_Text=f"your {suggestion['color']} {suggestion['shirt']['name']}👕"
             else:
